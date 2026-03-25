@@ -1,6 +1,6 @@
 # 🌊 Active Flood Risk Management System
 
-An advanced, machine-learning-driven dashboard designed to calculate real-time flood probabilities based on complex environmental and infrastructural factors. This project was developed as part of an Advanced Data Laboratory and demonstrates comprehensive data preprocessing, feature engineering, and comparative algorithmic analysis.
+An advanced, machine-learning-driven dashboard designed to calculate real-time flood probabilities based on complex environmental and infrastructural factors. This project was developed as part of an Application Development Laboratory and demonstrates comprehensive data preprocessing, feature engineering, and comparative algorithmic analysis.
 
 ## 📌 Project Overview
 Predicting flood events requires analyzing vast amounts of interconnected data. This system processes a dataset of over 1.1 million records, mathematically aggregating 20 raw environmental variables into **7 Master Indices**. These indices are then fed into a highly optimized machine learning pipeline to generate accurate, real-time risk assessments.
